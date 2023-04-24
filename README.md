@@ -9,6 +9,6 @@ Procurando em diversos locais encontrei uma biblioteca chamada Faker para python
 
 Todo o cógigo fonte foi disponibilizado neste repositório, e nele tem exemplos do que eu precisa colocar dentro das tabelas. Seu funcionamento é simples, mas ele poupa muito tempo de escrita.
 
-##O uso deste código é apenas para fins acadêmicos!!
+*O uso deste código é apenas para fins acadêmicos!!
 
 
